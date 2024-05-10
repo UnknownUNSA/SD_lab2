@@ -93,4 +93,3 @@ public class Cliente {
         client.temporizador.schedule(conversation, 0, period);
     }
 }
-
