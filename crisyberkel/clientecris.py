@@ -26,7 +26,8 @@ tiempoP=datetime.datetime.now()#Hora de P
 Restando segundos aleatorios para simular una desincronización
 """
 
-tiempoP=tiempoP-datetime.timedelta(seconds=random.randint(0,9))
+tiempoP=tiempoP-datetime.timedelta(hours=random.randint(0,12),seconds=random.randint(0,9))# tiempos aleatorios 
+#print(tiempoP)
 print("La hora actual en P previo a la sincronización es:\n",tiempoP.strftime("%H:%M:%S"))
 
 
