@@ -1,4 +1,4 @@
-# Laboratorio de Sistemas Distribuidos
+# Laboratorio de Sistemas Distribuidos 2
 
 Este repositorio contiene el código desarrollado como parte del laboratorio de Sistemas Distribuidos, con el propósito de explorar y entender diferentes algoritmos de sincronización de relojes en entornos distribuidos. El equipo de trabajo está compuesto por:
 
